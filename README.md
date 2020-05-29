@@ -1,2 +1,2 @@
 # covid_19
-Data Analysis Project
+Consists of data scraping,data cleaning and data analysis
